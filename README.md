@@ -1,2 +1,2 @@
-# DevOps_Journey-
+# DevOps_Journey
 Learn DevOps step by step
